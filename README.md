@@ -1,0 +1,1 @@
+I'm a game developer. I'm working on a game that will randomly create a new map every time a game is played. It uses Wave Function Collapse to create structures and perlin noise to create a hilly terrain
